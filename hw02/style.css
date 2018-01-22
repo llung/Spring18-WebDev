@@ -1,0 +1,40 @@
+.task3-table {
+    width : 99% !important;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.first-col {
+    width: 33%;
+}
+
+.second-col {
+    width: 66%;
+}
+
+table, tr, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 50%;
+    text-align: center;
+    vertical-align: middle;
+    padding: 5px;
+}
+.s1 {color : red}
+.s2 {color : orange}
+.s3 {color : yellow}
+.s4 {color : green}
+.s5 {color : blue}
+.s7 {color : purple}
+.s8 {color : black}
+.s9 {color : teal}
+.s10 {color : grey}
+.s11 {color : navy}
+.s12 {color : lavender}
+
+.heading {
+    text-align: center;
+    vertical-align: middle;
+    padding: 15px;
+}
+
